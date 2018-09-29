@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default () => (
   <div id="footerwrapper">
     <div id="footer">
@@ -5,28 +7,44 @@ export default () => (
         <h1>Quick Links</h1>
         <ul>
           <li>
-            <a href="http://www.thaibach.com">home</a>
+            <Link href="/">
+              <a>home</a>
+            </Link>
           </li>
           <li>
-            <a href="http://www.thaibach.com/about.php">about</a>
+            <Link href="/about">
+              <a>about</a>
+            </Link>
           </li>
           <li>
-            <a href="http://www.thaibach.com/history.php">history</a>
+            <Link href="/history">
+              <a>history</a>
+            </Link>
           </li>
           <li>
-            <a href="http://www.thaibach.com/reel.php">reel</a>
+            <Link href="/reel">
+              <a>reel</a>
+            </Link>
           </li>
           <li className="reelsublist">
-            <a href="http://www.thaibach.com/reel.php">2013</a>
+            <Link href="/reel">
+              <a>2013</a>
+            </Link>
           </li>
           <li className="reelsublist">
-            <a href="http://www.thaibach.com/reel2008.php">2008</a>
+            <Link href="/reel2008">
+              <a>2008</a>
+            </Link>
           </li>
           <li className="reelsublist">
-            <a href="http://www.thaibach.com/reel2004.php">2004</a>
+            <Link href="/reel2004">
+              <a>2004</a>
+            </Link>
           </li>
           <li>
-            <a href="http://www.thaibach.com">&nbsp;</a>
+            <Link href="/">
+              <a>&nbsp;</a>
+            </Link>
           </li>
           <li>
             <a href="http://www.imdb.com/name/nm4128602/" target="_blank">

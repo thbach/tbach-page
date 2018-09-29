@@ -18,7 +18,7 @@ const About = () => (
               <br />
               <br />
               <img
-                src="static/images/thaiPic02.jpg"
+                src="/static/images/thaiPic02.jpg"
                 alt="Picture of Thai Bach"
                 width="200"
                 height="296"

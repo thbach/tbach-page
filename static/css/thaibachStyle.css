@@ -12,7 +12,7 @@ body {
   font-family: Verdana, Arial, Helvetica, sans-serif;
   background-color: #000;
   background-attachment: scroll;
-  background-image: url("../images/bgHeader.jpg");
+  background-image: url(../images/bgHeader.jpg);
   background-repeat: no-repeat;
   background-position: center top;
 }
@@ -20,7 +20,7 @@ body {
 #homepage {
   background-color: #1d1e23;
   background-attachment: scroll;
-  background-image: url("../images/bghomenobox.jpg");
+  background-image: url(../images/bghomenobox.jpg);
   background-repeat: no-repeat;
   background-position: center top;
 }
@@ -33,7 +33,7 @@ body {
   color: #ff3300;
   margin: 0px;
   background-color: #000000;
-  background-image: url("../images/mainnavbg.png");
+  background-image: url(../images/mainnavbg.png);
   background-repeat: repeat-x;
   background-position: left top;
 }
@@ -127,7 +127,6 @@ ul {
   padding: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
-  behavior: url(iepngfix.htc);
 }
 
 .logo {
@@ -139,7 +138,6 @@ ul {
   padding: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
-  behavior: url(iepngfix.htc);
 }
 .imagespacevert {
   margin-top: 20px;
@@ -148,7 +146,6 @@ ul {
 }
 
 .imagespacehor {
-  behavior: url(iepngfix.htc);
   display: block;
   float: left;
   margin: 0px;
@@ -321,7 +318,6 @@ ul {
   float: right;
   background-image: url(../images/topnavbg.png);
   background-repeat: repeat;
-  behavior: url(iepngfix.htc);
 }
 
 #nav a:hover {
@@ -476,7 +472,7 @@ ul {
   padding-bottom: 20px;
   padding-left: 0px;
   overflow: hidden;
-  background-image: url(/images/trans50per.png);
+  background-image: url(../images/trans50per.png);
   background-repeat: repeat;
 }
 #content #head {
