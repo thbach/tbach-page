@@ -10,10 +10,11 @@ const Reel = () => (
         <div id="fixwidthreel">
           <div id="headreel">
             <iframe
-              src="http://player.vimeo.com/video/79469791?title=0&amp;byline=0&amp;portrait=0&amp;color=005b80"
+              src="https://player.vimeo.com/video/79469791"
               width="853"
               height="480"
               frameBorder="0"
+              allowFullScreen
             />
           </div>
         </div>

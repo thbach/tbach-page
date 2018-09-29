@@ -529,7 +529,7 @@ var _jsxFileName = "/home/tbach/Projects/thaibach-nextjs-website/components/Head
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "static/images/logonamesmall.png",
+    src: "/static/images/logonamesmall.png",
     alt: "Thai Bach - Digital Artist",
     width: "287",
     height: "65",
@@ -12143,7 +12143,7 @@ var About = function About() {
 
 /***/ }),
 
-/***/ 4:
+/***/ 7:
 /*!************************************!*\
   !*** multi ./pages/about/index.js ***!
   \************************************/
@@ -12168,5 +12168,5 @@ module.exports = dll_5d62d38be3592dca3a42;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]));;
+},[[7,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=about.js.map

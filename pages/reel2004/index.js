@@ -9,7 +9,7 @@ const Reel2004 = () => (
       <div id="contentreel">
         <div id="fixwidthreel">
           <div id="headreel">
-            <iframe src="http://player.vimeo.com/video/9674939" width="560" height="420" frameBorder="0" />
+            <iframe src="https://player.vimeo.com/video/9674939" width="560" height="420" frameBorder="0" />
           </div>
         </div>
       </div>

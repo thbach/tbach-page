@@ -529,7 +529,7 @@ var _jsxFileName = "/home/tbach/Projects/thaibach-nextjs-website/components/Head
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "static/images/logonamesmall.png",
+    src: "/static/images/logonamesmall.png",
     alt: "Thai Bach - Digital Artist",
     width: "287",
     height: "65",
@@ -12173,7 +12173,7 @@ var Reel2004 = function Reel2004() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("iframe", {
-    src: "http://player.vimeo.com/video/9674939",
+    src: "https://player.vimeo.com/video/9674939",
     width: "560",
     height: "420",
     frameBorder: "0",
@@ -12439,7 +12439,7 @@ var Reel2004 = function Reel2004() {
 
 /***/ }),
 
-/***/ 8:
+/***/ 6:
 /*!***************************************!*\
   !*** multi ./pages/reel2004/index.js ***!
   \***************************************/
@@ -12464,5 +12464,5 @@ module.exports = dll_5d62d38be3592dca3a42;
 
 /***/ })
 
-},[[8,"static/runtime/webpack.js"]]]));;
+},[[6,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=reel2004.js.map

@@ -529,7 +529,7 @@ var _jsxFileName = "/home/tbach/Projects/thaibach-nextjs-website/components/Head
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "static/images/logonamesmall.png",
+    src: "/static/images/logonamesmall.png",
     alt: "Thai Bach - Digital Artist",
     width: "287",
     height: "65",
@@ -12173,10 +12173,11 @@ var Reel2008 = function Reel2008() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("iframe", {
-    src: "http://player.vimeo.com/video/43863339",
+    src: "https://player.vimeo.com/video/43863339",
     width: "853",
     height: "480",
     frameBorder: "0",
+    allowFullScreen: true,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -12186,174 +12187,174 @@ var Reel2008 = function Reel2008() {
     id: "content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 22
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "fixwidth",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 23
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "singlecollum",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18
+      lineNumber: 24
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "head",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 25
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 26
     },
     __self: this
   }, "Reel 2008")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcold",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 28
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 29
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 30
     },
     __self: this
   }, "Coca Cola Coke's Endless summer TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25
+      lineNumber: 31
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 32
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27
+      lineNumber: 33
     },
     __self: this
   }), "Monkey Lab", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 35
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 36
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 37
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 38
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 39
     },
     __self: this
   }, "Design of Interior \"world machine\""), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 40
     },
     __self: this
   }, "Layout and Camera of interior shots"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 41
     },
     __self: this
   }, "Animation of interior shots"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 42
     },
     __self: this
   }, "Look Dev of interior shots"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 43
     },
     __self: this
   }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 44
     },
     __self: this
   }, "Pre-compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 46
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 47
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 48
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 49
     },
     __self: this
   }, "3D Studio Max"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 50
     },
     __self: this
   }, "Renderer - V Ray"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 51
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -12364,7 +12365,7 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 54
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -12372,122 +12373,122 @@ var Reel2008 = function Reel2008() {
     className: "altbg",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
+      lineNumber: 56
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 57
     },
     __self: this
   }, "Caltex: V8 Flies TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 58
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
+      lineNumber: 59
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 60
     },
     __self: this
   }), "Animal Logic", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 62
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
+      lineNumber: 63
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 64
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 65
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 66
     },
     __self: this
   }, "Previsualisation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61
+      lineNumber: 67
     },
     __self: this
   }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62
+      lineNumber: 68
     },
     __self: this
   }, "Pre-compositing ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subtitle",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 69
     },
     __self: this
   }, "(finaled by Flame artist)"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66
+      lineNumber: 72
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67
+      lineNumber: 73
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 68
+      lineNumber: 74
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 69
+      lineNumber: 75
     },
     __self: this
   }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70
+      lineNumber: 76
     },
     __self: this
   }, "Renderer - PRMan"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71
+      lineNumber: 77
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -12498,128 +12499,128 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 74
+      lineNumber: 80
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 76
+      lineNumber: 82
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 77
+      lineNumber: 83
     },
     __self: this
   }, "Comsys Nippon TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78
+      lineNumber: 84
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 79
+      lineNumber: 85
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80
+      lineNumber: 86
     },
     __self: this
   }), "Animal Logic", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 82
+      lineNumber: 88
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 83
+      lineNumber: 89
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 84
+      lineNumber: 90
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 85
+      lineNumber: 91
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86
+      lineNumber: 92
     },
     __self: this
   }, "Look Dev"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87
+      lineNumber: 93
     },
     __self: this
   }, "Fur Troubleshooting"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 88
+      lineNumber: 94
     },
     __self: this
   }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 89
+      lineNumber: 95
     },
     __self: this
   }, "Pre-compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 91
+      lineNumber: 97
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 92
+      lineNumber: 98
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 93
+      lineNumber: 99
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 94
+      lineNumber: 100
     },
     __self: this
   }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95
+      lineNumber: 101
     },
     __self: this
   }, "Renderer - PRMan"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 96
+      lineNumber: 102
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -12630,7 +12631,7 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 99
+      lineNumber: 105
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -12638,115 +12639,115 @@ var Reel2008 = function Reel2008() {
     className: "altbg",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 101
+      lineNumber: 107
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 102
+      lineNumber: 108
     },
     __self: this
   }, "Verizon Broadband (Soccer) TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103
+      lineNumber: 109
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104
+      lineNumber: 110
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105
+      lineNumber: 111
     },
     __self: this
   }), "Animal Logic", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 107
+      lineNumber: 113
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 108
+      lineNumber: 114
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 109
+      lineNumber: 115
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 110
+      lineNumber: 116
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 111
+      lineNumber: 117
     },
     __self: this
   }, "Look Dev"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112
+      lineNumber: 118
     },
     __self: this
   }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 113
+      lineNumber: 119
     },
     __self: this
   }, "Pre-compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115
+      lineNumber: 121
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 116
+      lineNumber: 122
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 117
+      lineNumber: 123
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 118
+      lineNumber: 124
     },
     __self: this
   }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 119
+      lineNumber: 125
     },
     __self: this
   }, "Renderer - PRMan"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 120
+      lineNumber: 126
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -12757,81 +12758,49 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 123
+      lineNumber: 129
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 125
+      lineNumber: 131
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 126
+      lineNumber: 132
     },
     __self: this
   }, "Bank of New Zealand TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 127
+      lineNumber: 133
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128
+      lineNumber: 134
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 129
+      lineNumber: 135
     },
     __self: this
   }), "Animal Logic", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 131
+      lineNumber: 137
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 132
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
-    className: "subheadingb",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 133
-    },
-    __self: this
-  }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
-    className: "reellist",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 134
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 135
-    },
-    __self: this
-  }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 136
-    },
-    __self: this
-  }, "Pre-compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 138
@@ -12844,7 +12813,7 @@ var Reel2008 = function Reel2008() {
       lineNumber: 139
     },
     __self: this
-  }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
@@ -12857,16 +12826,48 @@ var Reel2008 = function Reel2008() {
       lineNumber: 141
     },
     __self: this
-  }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 142
     },
     __self: this
+  }, "Pre-compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 144
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "subheadingb",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 145
+    },
+    __self: this
+  }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "reellist",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 146
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 147
+    },
+    __self: this
+  }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 148
+    },
+    __self: this
   }, "Renderer - PRMan"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 143
+      lineNumber: 149
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -12877,7 +12878,7 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 146
+      lineNumber: 152
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -12885,115 +12886,115 @@ var Reel2008 = function Reel2008() {
     className: "altbg",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 148
+      lineNumber: 154
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 149
+      lineNumber: 155
     },
     __self: this
   }, "Verizon Broadband (Stage Dive) TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 150
+      lineNumber: 156
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 151
+      lineNumber: 157
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 152
+      lineNumber: 158
     },
     __self: this
   }), "Animal Logic", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 154
+      lineNumber: 160
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 155
+      lineNumber: 161
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 156
+      lineNumber: 162
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 157
+      lineNumber: 163
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 158
+      lineNumber: 164
     },
     __self: this
   }, "Look Dev"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 159
+      lineNumber: 165
     },
     __self: this
   }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160
+      lineNumber: 166
     },
     __self: this
   }, "Pre-compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 162
+      lineNumber: 168
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 163
+      lineNumber: 169
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 164
+      lineNumber: 170
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 165
+      lineNumber: 171
     },
     __self: this
   }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 166
+      lineNumber: 172
     },
     __self: this
   }, "Renderer - PRMan"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 167
+      lineNumber: 173
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -13004,122 +13005,122 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 170
+      lineNumber: 176
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 172
+      lineNumber: 178
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 173
+      lineNumber: 179
     },
     __self: this
   }, "Nescafe Gold TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 174
+      lineNumber: 180
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 175
+      lineNumber: 181
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 176
+      lineNumber: 182
     },
     __self: this
   }), "Animal Logic", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 178
+      lineNumber: 184
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 179
+      lineNumber: 185
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 180
+      lineNumber: 186
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 181
+      lineNumber: 187
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 182
+      lineNumber: 188
     },
     __self: this
   }, "Fur Troubleshooting"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 183
+      lineNumber: 189
     },
     __self: this
   }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 184
+      lineNumber: 190
     },
     __self: this
   }, "Pre-compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 186
+      lineNumber: 192
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 187
+      lineNumber: 193
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 188
+      lineNumber: 194
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 189
+      lineNumber: 195
     },
     __self: this
   }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 190
+      lineNumber: 196
     },
     __self: this
   }, "Renderer - PRMan"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 191
+      lineNumber: 197
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -13130,7 +13131,7 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 194
+      lineNumber: 200
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -13138,121 +13139,121 @@ var Reel2008 = function Reel2008() {
     className: "altbg",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 196
+      lineNumber: 202
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 197
+      lineNumber: 203
     },
     __self: this
   }, "Optus (Jelly Fish) TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 198
+      lineNumber: 204
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 199
+      lineNumber: 205
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 200
+      lineNumber: 206
     },
     __self: this
   }), "Animal Logic", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 202
+      lineNumber: 208
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 203
+      lineNumber: 209
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 204
+      lineNumber: 210
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 205
+      lineNumber: 211
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 206
+      lineNumber: 212
     },
     __self: this
   }, "Animating the jellyfish, shots 3-10"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 207
+      lineNumber: 213
     },
     __self: this
   }, "Water and particle effects"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 208
+      lineNumber: 214
     },
     __self: this
   }, "Lighting TD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 209
+      lineNumber: 215
     },
     __self: this
   }, "Pre-compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 211
+      lineNumber: 217
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 212
+      lineNumber: 218
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 213
+      lineNumber: 219
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 214
+      lineNumber: 220
     },
     __self: this
   }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 215
+      lineNumber: 221
     },
     __self: this
   }, "Renderer - PRMan"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 216
+      lineNumber: 222
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -13263,140 +13264,140 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 219
+      lineNumber: 225
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 227
+      lineNumber: 233
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 228
+      lineNumber: 234
     },
     __self: this
   }, "Packed to the Rafters - Program Titles"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 229
+      lineNumber: 235
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 230
+      lineNumber: 236
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 231
+      lineNumber: 237
     },
     __self: this
   }), "Seven Network Design", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 233
+      lineNumber: 239
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 234
+      lineNumber: 240
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 235
+      lineNumber: 241
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 236
+      lineNumber: 242
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 237
+      lineNumber: 243
     },
     __self: this
   }, "Story boarding / Previsualisation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 238
+      lineNumber: 244
     },
     __self: this
   }, "Creating all assets and Look Dev"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 239
+      lineNumber: 245
     },
     __self: this
   }, "Animation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 240
+      lineNumber: 246
     },
     __self: this
   }, "Effects"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 241
+      lineNumber: 247
     },
     __self: this
   }, "Lighting TD "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 242
+      lineNumber: 248
     },
     __self: this
   }, "Compositing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 244
+      lineNumber: 250
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 245
+      lineNumber: 251
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 246
+      lineNumber: 252
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 247
+      lineNumber: 253
     },
     __self: this
   }, "3D Studio Max"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 248
+      lineNumber: 254
     },
     __self: this
   }, "Renderer - Mental Ray"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 249
+      lineNumber: 255
     },
     __self: this
   }, "Compositing - Digital Fusion"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -13407,7 +13408,7 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 252
+      lineNumber: 258
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -13415,115 +13416,115 @@ var Reel2008 = function Reel2008() {
     className: "altbg",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 254
+      lineNumber: 260
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 255
+      lineNumber: 261
     },
     __self: this
   }, "Australian Made TVC"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "contentcolc",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 256
+      lineNumber: 262
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 257
+      lineNumber: 263
     },
     __self: this
   }, "Studio:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 258
+      lineNumber: 264
     },
     __self: this
   }), "XYZ Studios", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 260
+      lineNumber: 266
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 261
+      lineNumber: 267
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 262
+      lineNumber: 268
     },
     __self: this
   }, "Credit:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 263
+      lineNumber: 269
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 264
+      lineNumber: 270
     },
     __self: this
   }, "Camera animation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 265
+      lineNumber: 271
     },
     __self: this
   }, "Look Dev of tree and produce"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 266
+      lineNumber: 272
     },
     __self: this
   }, "Lighting TD ")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 268
+      lineNumber: 274
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "subheadingb",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 269
+      lineNumber: 275
     },
     __self: this
   }, "Software Used:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "reellist",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 270
+      lineNumber: 276
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 271
+      lineNumber: 277
     },
     __self: this
   }, "Maya"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 272
+      lineNumber: 278
     },
     __self: this
   }, "Renderer - Mental Ray"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 273
+      lineNumber: 279
     },
     __self: this
   }, "Compositing - AfterEffects"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -13534,7 +13535,7 @@ var Reel2008 = function Reel2008() {
     className: "imagefloat",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 276
+      lineNumber: 282
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -13542,20 +13543,20 @@ var Reel2008 = function Reel2008() {
     className: "fadeform",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 279
+      lineNumber: 285
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 280
+      lineNumber: 286
     },
     __self: this
   }, "Watch other Reels"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_ReelLinks__WEBPACK_IMPORTED_MODULE_3__["default"], {
     id: "2008",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 281
+      lineNumber: 287
     },
     __self: this
   })))))));
@@ -13584,7 +13585,7 @@ var Reel2008 = function Reel2008() {
 
 /***/ }),
 
-/***/ 7:
+/***/ 5:
 /*!***************************************!*\
   !*** multi ./pages/reel2008/index.js ***!
   \***************************************/
@@ -13609,5 +13610,5 @@ module.exports = dll_5d62d38be3592dca3a42;
 
 /***/ })
 
-},[[7,"static/runtime/webpack.js"]]]));;
+},[[5,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=reel2008.js.map
