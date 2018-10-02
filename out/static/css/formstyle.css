@@ -1,0 +1,133 @@
+#quickmsgform {
+	margin: 0px;
+	padding: 0px;
+}
+
+#hiddenform {
+	margin: 0px;
+	padding: 0px;
+	display: none;
+}
+
+#form_container
+{
+	margin: 0;
+	padding: 0px;
+	display: block;
+	width: 100%;
+	float: left;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.inputformtextmed {
+	background-color: #444451;
+	border: 1px solid #19132F;
+	font-size: 12px;
+	color: #F9F2F0;
+	padding: 2px;
+	margin: 2px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+label.description
+{
+	border:none;
+	display:block;
+	padding: 0px;
+	margin-top: 2px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-weight: bold;
+}
+.listofbox {
+	margin: 5px;
+	padding: 0px;
+}
+
+
+form ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	width:100%;
+}
+
+form li
+{
+	display:block;
+	margin:0;
+	padding:4px 5px 2px 9px;
+	position:relative;
+}
+
+form li div
+{
+	margin:0 4px 0 0;
+	padding:0 0 8px;
+}
+
+form li span
+{
+	float:left;
+	margin:0 4px 0 0;
+	padding:0 0 4px;
+}
+
+form hr
+{
+	display:none;
+}
+
+form ul li.first
+{
+	border-top:none !important;
+	margin-top:0 !important;
+	padding-top:0 !important;
+}
+
+textarea.textarea
+{
+	margin:0px;
+	width:240px;
+	background-color: #444451;
+	border: 1px solid #19132F;
+	padding: 2px;
+	font-size: 14px;
+	color: #F9F2F0;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/**** Buttons ****/
+input.button_text
+{
+	overflow:visible;
+	float: left;
+	display: block;
+	padding: 0;
+	width: 70px;
+	margin: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #141421;
+	border: thin solid #333333;
+	color: #D0D1D9;
+}
+
+
+.buttons input
+{
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0px;
+}
+
+.buttons :hover
+{
+	color: #FF3300;
+}
