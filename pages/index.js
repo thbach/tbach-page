@@ -10,79 +10,81 @@ const Home = () => (
       <link href="/static/css/ie.css" rel="stylesheet" type="text/css" />
       <link href="/static/css/reset.css" rel="stylesheet" type="text/css" />
       <link href="/static/css/thaibachStyle.css" rel="stylesheet" type="text/css" />
+      <link href="/static/css/timeline.css" rel="stylesheet" type="text/css" />
+      <link href="/static/css/reelstyles.css" rel="stylesheet" type="text/css" />
+      <link href="/static/css/formstyle.css" rel="stylesheet" type="text/css" />
+      <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />>
     </Head>
-    <div id="wrapper">
-      <div id="headerwrapper">
-        <div id="headerhome">
+    <div className="card">
+      <p className="name">THAI BACH</p>
+      <div className="icons-container">
+        <span className="icon">
           <Link href="/">
             <a>
-              {' '}
-              <img
-                src="/static/images/logonamesmall.png"
-                alt="Thai Bach - Digital Artist"
-                width="287"
-                height="65"
-                className="homelogo"
-              />
+              <img src="/static/svg/linkedin.svg" />
             </a>
           </Link>
-        </div>
-      </div>
-      <div id="navwrapper">
-        <div id="nav">
-          <Link href="/reel">
-            <a className="reel">REEL</a>
+        </span>
+        <span className="icon">
+          <Link href="/">
+            <a>
+              <img src="/static/svg/imdb.svg" />
+            </a>
           </Link>
-          <Link href="/history">
-            <a className="history">HISTORY</a>
+        </span>
+        <span className="icon" />
+        <span className="icon">
+          <Link href="/">
+            <a>
+              <img src="/static/svg/github.svg" />
+            </a>
           </Link>
-          <Link href="/about">
-            <a className="about">ABOUT</a>
-          </Link>
-        </div>
+        </span>
       </div>
-      <div id="homecontentwrapper">
-        <div id="content">
-          <h3>
-            Hi! Welcome,{' '}
-            <span className="subtitle">
-              <br />
-              I'm a digital artist (Lighting/LookDev and Compositing) with over 10 years experience. Creating beautiful
-              imagery is what I do!
-            </span>
-          </h3>
-          <div id="fixwidthhome">
-            <div id="contentcolahome">
-              <Link href="/reel">
-                <a>
-                  <img src="/static/images/2010home.jpg" width="620" height="260" alt="2008reel" />
-                </a>
-              </Link>
-            </div>
-            <div id="contentcola">
-              <Link href="/reel2008">
-                <a>
-                  <img src="/static/images/2008home.jpg" width="280" height="120" alt="2008reel" />
-                </a>
-              </Link>
-              <span className="spacerhome">.</span>
-              <Link href="reel2004">
-                <a>
-                  <img src="/static/images/2004home.jpg" width="280" height="120" alt="2008reel" />
-                </a>
-              </Link>
-            </div>
-          </div>
-          <div id="contentcolchome">
-            <br />
-            <br />
-            <br />
-            <br />
-          </div>
-        </div>
-      </div>
-      <Footer />
+      <p className="subtitle">
+        <Link href="/home">
+          <a>or head back in time to 2013...</a>
+        </Link>
+      </p>
     </div>
+    <style jsx>
+      {`
+        .card {
+          margin: auto;
+          height: 100vh;
+          width: 100%;
+          border: 1px solid green;
+          padding: 20vh 0px 0px 0px;
+          box-sizing: border-box;
+          background-color: black;
+          text-align: center;
+        }
+        .icons-container {
+          display: flex;
+          justify-content: center;
+        }
+        .icon {
+          margin: 5px;
+          padding-bottom: 100px;
+          width: 10%;
+        }
+        p {
+          font-family: 'Montserrat', sans-serif;
+        }
+        .name {
+          color: white;
+          font-size: 9vw;
+        }
+        .subtitle a {
+          color: #4f556f;
+          font-size: 2vw;
+        }
+        .subtitle a:hover {
+          color: #9fa5bb;
+          cursor: pointer;
+        }
+      `}
+    </style>
   </div>
 );
 

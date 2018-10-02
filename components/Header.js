@@ -4,7 +4,7 @@ export default () => (
   <div>
     <div id="headerwrapper">
       <div id="header">
-        <Link href="/">
+        <Link href="/home">
           <a>
             <img
               src="/static/images/logonamesmall.png"

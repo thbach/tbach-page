@@ -7,7 +7,7 @@ export default () => (
         <h1>Quick Links</h1>
         <ul>
           <li>
-            <Link href="/">
+            <Link href="/home">
               <a>home</a>
             </Link>
           </li>
@@ -42,7 +42,7 @@ export default () => (
             </Link>
           </li>
           <li>
-            <Link href="/">
+            <Link href="/home">
               <a>&nbsp;</a>
             </Link>
           </li>
