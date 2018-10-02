@@ -212,7 +212,7 @@ var _jsxFileName = "/home/tbach/Projects/thaibach-nextjs-website/components/Foot
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "http://www.imdb.com/name/nm4128602/",
+    href: "https://www.imdb.com/name/nm4128602/",
     target: "_blank",
     __source: {
       fileName: _jsxFileName,
@@ -226,7 +226,7 @@ var _jsxFileName = "/home/tbach/Projects/thaibach-nextjs-website/components/Foot
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "http://uk.linkedin.com/in/thaibach",
+    href: "https://uk.linkedin.com/in/thaibach",
     target: "_blank",
     __source: {
       fileName: _jsxFileName,

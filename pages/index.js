@@ -19,26 +19,20 @@ const Home = () => (
       <p className="name">THAI BACH</p>
       <div className="icons-container">
         <span className="icon">
-          <Link href="/">
-            <a>
-              <img src="/static/svg/linkedin.svg" />
-            </a>
-          </Link>
+          <a href="https://uk.linkedin.com/in/thaibach" target="_blank">
+            <img src="/static/svg/linkedin.svg" />
+          </a>
         </span>
         <span className="icon">
-          <Link href="/">
-            <a>
-              <img src="/static/svg/imdb.svg" />
-            </a>
-          </Link>
+          <a href="https://www.imdb.com/name/nm4128602/" target="_blank">
+            <img src="/static/svg/imdb.svg" />
+          </a>
         </span>
         <span className="icon" />
         <span className="icon">
-          <Link href="/">
-            <a>
-              <img src="/static/svg/github.svg" />
-            </a>
-          </Link>
+          <a href="https://github.com/thbach" target="_blank">
+            <img src="/static/svg/github.svg" />
+          </a>
         </span>
       </div>
       <p className="subtitle">

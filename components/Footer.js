@@ -47,12 +47,12 @@ export default () => (
             </Link>
           </li>
           <li>
-            <a href="http://www.imdb.com/name/nm4128602/" target="_blank">
+            <a href="https://www.imdb.com/name/nm4128602/" target="_blank">
               IMDb
             </a>
           </li>
           <li>
-            <a href="http://uk.linkedin.com/in/thaibach" target="_blank">
+            <a href="https://uk.linkedin.com/in/thaibach" target="_blank">
               LinkedIn
             </a>
           </li>
