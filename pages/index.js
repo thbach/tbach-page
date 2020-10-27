@@ -35,11 +35,13 @@ const Home = () => (
           </a>
         </span>
       </div>
+<! --
       <p className="subtitle">
         <Link href="/home">
           <a>or head back in time to 2013...</a>
         </Link>
       </p>
+-->    
     </div>
     <style jsx>
       {`
