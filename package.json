@@ -8,17 +8,17 @@
     "export": "next export"
   },
   "dependencies": {
-    "next": "^7.0.0",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "^9.0.0",
-    "eslint": "^5.5.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-config-prettier": "^3.0.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-prettier": "^2.6.2",
-    "prettier": "^1.14.2"
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.2"
   }
 }
